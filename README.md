@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mianalikhalid2000@gmail.com)
 
 ## 💫 About Me
 Full-Stack Developer with 3+ years of experience crafting modern web applications. I specialize in building scalable solutions using Node.js, Next.js, and WordPress, with a passion for clean code and optimal user experience.
@@ -78,7 +78,7 @@ Full-Stack Developer with 3+ years of experience crafting modern web application
 
 - 💼 [LinkedIn](your-linkedin-url)
 - 🌐 [Portfolio](your-portfolio-url)
-- 📧 [Email](mailto:your.email@domain.com)
+- 📧 [Email](mailto:mianalikhalid2000@gmail.com)
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [YourGitHubUsername](https://github.com/MianAliKhalid)
