@@ -111,7 +111,7 @@ Full-Stack Developer with 3+ years of experience developing modern web applicati
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MianAliKhalid/MianAliKhalid/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MianAliKhalid/output/main/snake.svg" alt="Snake animation" />
 
 ###
 
