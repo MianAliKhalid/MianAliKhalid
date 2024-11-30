@@ -70,7 +70,7 @@ I'm a Full-Stack Developer with 3+ years of hands-on experience building secure,
 
 ###
 
-##🎓 Addons:
+## 🎓 Addons:
 
 Full-stack web development.
 Custom WordPress themes, WooCommerce solutions, and APIs.
