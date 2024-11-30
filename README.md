@@ -113,8 +113,10 @@ Full-Stack Developer with 3+ years of experience developing modern web applicati
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MianAliKhalid/count.svg?"  />
+  <img src="https://raw.githubusercontent.com/MianAliKhalid/MianAliKhalid/output/snake.svg" alt="Snake animation" />
+
 </div>
+
 
 ###
 
