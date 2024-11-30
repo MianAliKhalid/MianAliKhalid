@@ -141,6 +141,6 @@ I'm a Full-Stack Developer with 3+ years of hands-on experience building secure,
 - 💼 [LinkedIn](your-linkedin-url)
 - 🌐 [Portfolio](your-portfolio-url)
 - 📧 [Email](mailto:mianalikhalid2000@gmail.com)
-google-site-verification: googlea8ebcc34934fb138.html
+
 ---
 ⭐️ From [YourGitHubUsername](https://github.com/MianAliKhalid)
