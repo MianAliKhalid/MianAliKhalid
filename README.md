@@ -18,7 +18,8 @@
 ###
 
 ## 💫 About Me
-Full-Stack Developer with 3+ years of experience developing modern web applications. I specialize in building scalable solutions using Node.js, Next.js, and WordPress, with a passion for clean code and optimal user experience.
+# Welcome to my space! 👋
+I'm a Full-Stack Developer with 3+ years of hands-on experience building secure, scalable, and user-friendly web solutions. I specialize in MERN Stack, Next.js, and WordPress, but my toolkit also includes React, Node.js, MongoDB, Express, Prisma, Tailwind CSS, and Material-UI.
 
 ## 🛠️ Tech Stack
 
