@@ -143,4 +143,4 @@ I'm a Full-Stack Developer with 3+ years of hands-on experience building secure,
 - 📧 [Email](mailto:mianalikhalid2000@gmail.com)
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/MianAliKhalid)
+⭐️ From [Mian Ali Khalid](https://github.com/MianAliKhalid)
